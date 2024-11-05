@@ -91,3 +91,5 @@ Beethoven’s innovation is evident in the way he manipulates form. While adheri
 **Conclusion**
 
 The "Waldstein" Sonata is a stunning demonstration of Beethoven’s genius, marked by its boldness, innovation, and emotional depth. With its striking contrasts between the vigorous and the lyrical, the playful and the profound, it is a work that encapsulates the essence of Beethoven's style: a fearless exploration of the piano’s capabilities, imbued with an intensely personal expression. As one of his most iconic piano works, the "Waldstein" Sonata remains a cornerstone of the piano repertoire, continuously inspiring performers and listeners alike.
+
+comment: Portraits and composers are too big. Make them smaller.
