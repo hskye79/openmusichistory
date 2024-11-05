@@ -3,13 +3,13 @@
 ## Structure: 3 movements
 ## Duration: Approx. 15–20 minutes
 
-<img src="L.v.Beethoven.png">
+<img src="L.v.Beethoven.png" width="300" height="400">
 
 **Ludwig van Beethoven** (1770-1827) is one of the most significant composers in the history of Western classical music.Despite his revolutionary contributions, his works were not always fully appreciated during his lifetime. Known for pushing the boundaries of classical form and expression, Beethoven's music reflects a deep emotional intensity, often born out of personal struggle. His later works, in particular, are characterized by a profound emotional depth and innovative approach to form.
 
 *"Beethoven’s music activates fear, awe, horror, and suffering, awakening that “infinite longing” that defines the essence of Romanticism."(Hoffmann, 1813)*
 
-<img src="Moonlight_Sonata_I.png">
+<img src="Moonlight_Sonata_I.png" wirth="400" height="150">
 
 This work is *Beethoven's Piano Sonata No. 14 in C♯ minor, Op. 27, No. 2*, commonly known as the **"Moonlight Sonata**."
 
