@@ -9,6 +9,33 @@
 
 *"Beethoven’s music activates fear, awe, horror, and suffering, awakening that “infinite longing” that defines the essence of Romanticism."(Hoffmann, 1813)*
 
+- [Timeline](#timeline)
+- [Piano Sonata No. 14 in C# minor, Op. 27, No. 2 ("Moonlight Sonata")](#piano-sonata-no-14-in-c#-minor-op-27-no-2-moonlight-sonata)
+- [Influences](#influences)
+- [Significance](#significance)
+- [Performance and Reception](#performance-and-reception)
+- [Listening Guide](#listening-guide)
+  
+## Timeline
+
+| Year | Event | Description                                                                                                 | Youtube |
+| ---- | ----- | ----------------------------------------------------------------------------------------------------------- | ------- |
+| 1770 | Birth | Born on December 17th in Bonn, Electorate of Cologne (modern-day Germany).
+| 1792 | Moves to Vienna | Moves to Vienna permanently to study with Joseph Haydn.
+| 1795 | First public | First public performance in Vienna, showcasing his piano skills.
+| 1800 | Composes symphony | Composes his first symphony, Symphony No. 1 in C major.
+| 1801 | Hearing loss | Begins to experience the first signs of hearing loss.
+| 1802 | Heiligenstadt Testament | Composes the "Heiligenstadt Testament," a letter expressing his despair over his deafness.
+| 1812 | Composes sonata | Composes the "Waldstein" Piano Sonata and the "Appassionata" Sonata.
+| 1815 | Deaf | His hearing deteriorates significantly, and he becomes almost completely deaf.
+| 1824 | Symphony No.9 Premiere | Premieres Symphony No. 9, including the famous "Ode to Joy" chorus.
+| 1827 | Death |Dies on March 26th in Vienna at the age of 56.
+
+This piece was directly influenced by Beethoven's piano sonatas, especially [Piano Sonata No.26](#beethoven-sonata-26.md) (This is not true.)
+
+---
+## Piano Sonata No. 14 in C# minor, Op. 27, No. 2 
+
 <img src="Moonlight_Sonata_I.png" wirth="400" height="150">
 
 This work is *Beethoven's Piano Sonata No. 14 in C♯ minor, Op. 27, No. 2*, commonly known as the **"Moonlight Sonata**."
@@ -37,3 +64,11 @@ The third movement brings the sonata to a dramatic and intense conclusion. Marke
 **"Moonlight Sonata"** stands as a testament to Beethoven's ability to channel personal suffering into transcendent beauty. Through its simple yet powerful structure, it expresses an emotional range that has resonated with listeners for centuries. Despite the personal struggles Beethoven faced during its composition—most notably his increasing deafness—this sonata remains one of his most beloved and enduring works, demonstrating the enduring power of music to communicate universal human emotions.
 
 This program note offers listeners a deeper understanding of the musical structure, emotional depth, and historical context of Beethoven's Moonlight Sonata, enhancing the listening experience and helping them connect with the piece on a more profound level.
+
+## Influences
+
+## Significance
+
+## Performance and Reception
+
+## Listening Guide
