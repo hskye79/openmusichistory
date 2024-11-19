@@ -3,11 +3,6 @@
 ## Structure: 3 movements
 ## Duration: Approx. 15–20 minutes
 
-<img src="L.v.Beethoven.png" width="300" height="400">
-
-**Ludwig van Beethoven** (1770-1827) is one of the most significant composers in the history of Western classical music.Despite his revolutionary contributions, his works were not always fully appreciated during his lifetime. Known for pushing the boundaries of classical form and expression, Beethoven's music reflects a deep emotional intensity, often born out of personal struggle. His later works, in particular, are characterized by a profound emotional depth and innovative approach to form.
-
-*"Beethoven’s music activates fear, awe, horror, and suffering, awakening that “infinite longing” that defines the essence of Romanticism."(Hoffmann, 1813)*
 
 - [Timeline](#timeline)
 - [Piano Sonata No. 14 in C# minor, Op. 27, No. 2 ("Moonlight Sonata")](#piano-sonata-no-14-in-c#-minor-op-27-no-2-moonlight-sonata)
@@ -15,8 +10,16 @@
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
 - [Listening Guide](#listening-guide)
-  
+
+---
+
 ## Timeline
+
+<img src="L.v.Beethoven.png" width="300" height="400">
+
+**Ludwig van Beethoven** (1770-1827) is one of the most significant composers in the history of Western classical music.Despite his revolutionary contributions, his works were not always fully appreciated during his lifetime. Known for pushing the boundaries of classical form and expression, Beethoven's music reflects a deep emotional intensity, often born out of personal struggle. His later works, in particular, are characterized by a profound emotional depth and innovative approach to form.
+
+*"Beethoven’s music activates fear, awe, horror, and suffering, awakening that “infinite longing” that defines the essence of Romanticism."(Hoffmann, 1813)*
 
 | Year | Event | Description                                                                                                 | Youtube |
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------- | ------- |
@@ -66,6 +69,12 @@ The third movement brings the sonata to a dramatic and intense conclusion. Marke
 This program note offers listeners a deeper understanding of the musical structure, emotional depth, and historical context of Beethoven's Moonlight Sonata, enhancing the listening experience and helping them connect with the piece on a more profound level.
 
 ## Influences
+
+**1. Emotional Expression Evolution**
+The "Moonlight Sonata" features emotional depth and introspective expression that were unprecedented in piano sonatas of its time. The first movement, with its gentle and lyrical atmosphere, conveys a sense of melancholy and inner turmoil, which may reflect Beethoven’s own struggles with his hearing loss and personal challenges. This sonata represents a new level of personal, inward emotional expression, opening up a new dimension in how emotions were portrayed in music.
+
+**2. Challenge to Traditional Sonata Form**
+This sonata deviates from the traditional three-movement sonata form, offering a more non-traditional structure. The first movement is extremely slow and lyrical, which presents a new approach to sonata form. This challenge to the conventional structure paved the way for later composers to experiment with and break free from traditional forms, particularly those in the Romantic period.
 
 ## Significance
 
