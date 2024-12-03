@@ -79,6 +79,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [Piano Sonata No. 26 in E-flat major, Op. 81a, "Les Adieux"](beethoven-sonata-26.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Which sonata?](sample-beethoven-piano-sonata.md) by [xogus1194](https://github.com/xogus1194)
 - [Symphony No. 9, Op. 125](beethoven-symphony-no-9.md) by [taegyun-kim-bassist](https://github.com/Taegyun-Kim-Bassist)
+- [Rondo a Carpriccio Op.129](beethoven-rondo.md) by [Yunseungju](https://github.com/Yunseungju)
 
 ### Ferruccio Busoni (Sample)
 - [Piano Sonata in F minor, BV 204](sample-busoni-piano-sonata.md) by [kyeser](https://github.com/kyeser)
@@ -106,10 +107,12 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
-- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 
-### Moonhee Lee
-- [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
+- [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+
+- [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
+- [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
+
 
 ---
 
@@ -138,6 +141,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### Robert Schumann
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
+- [Fantasie, Op. 17](schumann-fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [Fantasie, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
 - [*Fantasie*, in C major, Op.17](schumann-fantasie.md) by [xogus1194](https://github.com/xogus1194)
 
@@ -149,9 +153,6 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _20th Century_
 
-### John Adams
-- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
-
 ### Leopold Godowsky
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
@@ -160,6 +161,8 @@ As we explore these compositions, we invite readers to experience the varied sou
 
 ### _21st Century_
 
-### Moonhee Lee
+### John Adams
+- [Doctor Atomic](john_adams_doctor_atomic.md) by [eunhwan00](https://github.com/eunhwan00)
 
+### Moonhee Lee
 - [The Proliferation of Dots](moonheelee-The-Proliferation-of-Dots.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
