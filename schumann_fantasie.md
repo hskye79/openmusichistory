@@ -64,10 +64,10 @@ The final movement serves as a lyrical and contemplative conclusion to the work.
 
 The Fantasy in C Major stands as a testament to Schumann’s genius, capturing the spirit of Romanticism in its unrestrained emotion and inventive form. Its depth and complexity make it a favorite among pianists and listeners alike, offering a window into the heart and mind of one of the 19th century’s most passionate and poetic composers.
 
+<img src="fantasie.png">
+
 ---
 
 ## Questions for Review
 
 ## Guides for Further Studies
-
-<img src="fantasie.png">
