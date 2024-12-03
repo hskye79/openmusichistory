@@ -84,6 +84,9 @@ As we explore these compositions, we invite readers to experience the varied sou
 ### Frédéric Chopin
 - [Piano Sonata No. 2 in B-flat minor, Op. 35](chopin-piano-sonata.md) by [Yunseungju](https://github.com/Yunseungju)
 
+### Leopold Godowsky
+- [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
+
 ### Joseph Haydn
 - [Keyboard Sonata in C major, Hob.XVI:50](haydn-piano-sonata.md) by [eunhwan00](https://github.com/eunhwan00)
 
