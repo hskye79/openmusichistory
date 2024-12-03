@@ -11,9 +11,9 @@ A picture of Beethoven "breaking" the rules of classical era music and innovatin
 
 - [Timeline](#timeline)
 - [Piano Concerto No. 5, Op. 73](#piano-concerto-no-5-op-73)
-- [I. Allegro](#i-allegro)
-- [II. Adagio un poco mosso](#ii-adagio-un-poco-mosso)
-- [III. Rondo: Allegro ma non troppo](#iii-rondo-allegro-ma-non-troppo)
+  - [I. Allegro](#i-allegro)
+  - [II. Adagio un poco mosso](#ii-adagio-un-poco-mosso)
+  - [III. Rondo: Allegro ma non troppo](#iii-rondo-allegro-ma-non-troppo)
 - [Influences](#influences)
 - [Significance](#significance)
 - [Performance and Reception](#performance-and-reception)
