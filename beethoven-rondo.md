@@ -9,7 +9,7 @@
   - [Points to Listen For](#points_to_listen_for)
   - [Conclusion](#conclusion)
 - [Timeline](#timeline)
-- [Qestions for Review](#qestions_for_review)
+- [Questions for Review](#questions_for_review)
 - [Guides for Further Studies](#guides_for_further_studies)
 
 ## Rondo a carpriccio Op.129
@@ -45,9 +45,9 @@ Expressive Depth: Beyond technical proficiency, performers must capture the ligh
 
 Beethoven's Rondo a Capriccio is a gem that offers a glimpse into the composer's human side and his playful artistry. Performers have the chance to convey Beethoven's humor and vitality, while audiences are invited to enjoy a delightful exploration of his unique musical imagination.
 
-### Qestions for Review
+## Questions for Review
 
-### Guides for Further Studies
+## Guides for Further Studies
 
 ## Timeline 
 
