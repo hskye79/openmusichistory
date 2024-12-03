@@ -11,6 +11,8 @@
    - [3rd mov.](#3rd-movement)
    - [4th mov.](#4th-movement)
  - [Conclude](#concluding-the-textbook-of-beethovens-symphony-no9)
+ - [Questions for Review](#questions-for-review)
+ - [Guides for Further Studies](#guides-for-further-studies)
 
 ---
 
@@ -179,7 +181,7 @@ The four soloists sing the first verse of "Joy" in a fugue-like style. As this i
 
 The fastest tempo in the fourth movement occurs at the climax. It begins in Presto and then transitions to Maestoso. Here, Schiller's lyrics, "Freude, schöner Götterfunken" (Joy, beautiful spark of the gods), are sung grandly, and then the tempo returns to Presto, with the orchestra closing the piece in a coda.
 
-# Concluding the textbook of ***Beethoven's Symphony no.9***
+## Concluding the textbook of ***Beethoven's Symphony no.9***
 
 There is no doubt that this piece is a masterpiece. Beethoven's final symphony, composed by one of the greatest composers in human history, is particularly remarkable for its theme of humanity and peace. Many composers have been influenced by Beethoven, and his impact continues to resonate not only with composers but with all those who love music. I will conclude this textbook by introducing some of Beethoven's other works.
 
@@ -190,8 +192,8 @@ There is no doubt that this piece is a masterpiece. Beethoven's final symphony, 
 
 
 
+## Questions for Review
 
 
-
-
+## Guides for Further Studies
 

@@ -3,6 +3,7 @@
 
 ## Table of concents
 
+ - [About Gustav Mahler](#gustav-mahler)
  - [Timeline](#timeline)
  - [Symphony no.1](#symphony-no1-d-major-titan)
    - [1st mov.](#1st-mov-langsam-schleppend)
@@ -10,9 +11,11 @@
    - [3rd mov.](#3rd-mov-feierlich-und-gemessen-ohne-zu-schleppen)
    - [4th mov.](#4th-mov-stürmisch-bewegt)
  - [Conclude](#concluding-the-textbook-of-gustav-mahlers-symphony-no1)
+ - [Questions for Review](#questions-for-review)
+ - [Guides for Further Studies](#guides-for-further-studies)
 
 
-### Gustav Mahler: An Austrian Composer and Conductor of the Late Romantic Period   
+## Gustav Mahler
 
 Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure of the Late Romantic period. Although his family was poor, Mahler showed exceptional musical talent from a young age, and at 13, he began studying piano and composition at the Vienna Conservatory. Before he gained recognition as a composer, Mahler became well-known as an opera conductor, leading several opera houses and gaining fame for his work. However, composing was always his true passion. Even during summer vacations, he would devote himself to completing his symphonies.   
 
@@ -93,7 +96,7 @@ This movement is extremely demanding, especially in the climactic final section,
 
 I believe this movement best captures Mahler's intent to explore themes of love, suffering, life, and death.   
 
-# Concluding the textbook of Gustav Mahler's Symphony no.1   
+## Concluding the textbook of Gustav Mahler's Symphony no.1   
 
 Some argue that if Mahler had lived longer, he might have incorporated his first student Arnold Schoenberg's atonal music into his own compositions. Schoenberg's String Quartet No. 2 is regarded as a groundbreaking piece that paved the way from tonal to atonal music, and it is often considered to have evolved from Mahler's progressive tonality.   
 
@@ -101,3 +104,7 @@ To conclude this textbook, I will present an AI-generated illustration imagining
 
 ![Alt text](https://github.com/user-attachments/assets/0d762611-b125-40ba-a80e-223a8f0e81ab)
 
+
+## Questions for Review
+
+## Guides for Further Studies
