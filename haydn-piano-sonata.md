@@ -13,8 +13,10 @@
    -[Coda](#coda)
 - [Tips for practicing](#tips-for-practicing)
 - [Listening Guide](#listening-guide)
+- [Questions-for Guide](#questions-for-guide)
+- [Guide for further studies](#guide-for-further-studies)
 
-
+---
 
 ## Haydn's life and career
 
@@ -41,6 +43,7 @@ The reason why I chose this piece is that among the sonata's characteristics tha
 <img src="Hello World png.png">
 The first movement, marked "Allegro," opens with a bright and assertive theme that immediately captures the listener's interest. This movement is characterized by its lively rhythmic drive and clear structural form. The main theme is introduced with a bold, upward leap, setting a cheerful and energetic tone. Haydn’s use of syncopation and rapid passages adds a sense of excitement, inviting the pianist to showcase both technical prowess and expressive nuance. As the movement progresses, Haydn masterfully develops the initial themes, weaving in contrasting material that highlights his wit and creativity. The secondary theme offers a delightful contrast, featuring a more lyrical quality that creates a charming dialogue within the piece. Haydn's knack for surprising harmonic shifts keeps the listener engaged, as he deftly explores the interplay between major and minor tonalities. The development section introduces moments of tension, showcasing Haydn's ability to build suspense before returning to the joyous energy of the opening themes. The movement concludes with a spirited recapitulation, bringing back the initial themes with renewed vigor and culminating in a jubilant finale. In this sonata, Haydn not only captures the essence of the Classical style but also hints at the emotional depth that will define the Romantic era to come.
 
+---
 
 ## Form: Sonata-Allegro Form
 Like many Classical sonatas, the first movement follows the traditional sonata-allegro form, consisting of three main sections: the Exposition, the Development, and the Recapitulation, followed by a Coda.
@@ -54,15 +57,20 @@ The recapitulation brings back the main theme, now firmly rooted in the home key
 ### Coda 
 The movement concludes with a spirited coda, reintroducing elements from earlier in the movement and culminating in a jubilant finish.
 
-# Musical Characteristics
+---
+
+### Musical Characteristics
 Rhythm and Articulation: The first movement features lively rhythms and clear articulation, allowing for expressive playing. The use of staccato and legato contrasts adds to the playful character.
 Harmonic Language: Haydn's harmonic language is inventive, with unexpected modulations that keep the listener engaged.
-# Performance Notes
+
+### Performance Notes
 Expression: Performers are encouraged to emphasize the contrasts between the themes and to bring out the playful elements. Dynamic variations and phrasing will enhance the movement's character.
 The first movement of Haydn's Piano Sonata in C Major is a vibrant and engaging work that showcases Haydn's mastery of form and melody, making it a delightful experience for both performers and audiences.
 
-## Emotional Connection
+### Emotional Connection
 While the movement is upbeat and cheerful, it also contains moments of subtle expressiveness. The humor in the piece is not overt but comes through in Haydn's playful use of harmonic shifts and rhythmic surprises. Encourage performers to approach the piece with a sense of lightheartedness, allowing the music to flow naturally with a sense of optimism and joy.
+
+---
 
 ## Tips for Practicing 
 
@@ -78,7 +86,9 @@ Imagine the right hand as telling a story, with the left hand responding. This w
 ### Have Fun!
 Above all, enjoy the music! Haydn’s Piano Sonata Hob. XVI:50 is a delightful work full of energy and wit, and it offers a rewarding experience both for the performer and the audience.
 
-Overall, this first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike. [You can put the word "overall" here if you want to]
+Overall, this first movement of Haydn’s Piano Sonata in C Major is a perfect example of his mastery of form, rhythm, and melody. It embodies the Classical spirit with a touch of humor and inventiveness, making it an enjoyable piece for performers and audiences alike.
+
+---
 
 ## Listening Guide
 This listening guide explores, offering insights into the unique interpretations of various pianists.
@@ -91,3 +101,8 @@ The opening Allegro is light and brisk, with Schiff's attention to detail creati
 
 [3. Glenn Gould](https://www.youtube.com/watch?v=VfmmVQhg3-0)
 Gould plays with clear, almost detached articulation that emphasizes clarity over conventional lyricism. While this style may not bring the full "playfulness" some other performances capture, Gould’s rendition has a unique, crisp quality that highlights the structure of the piece in a way that reveals deeper layers of Haydn's compositional ingenuity. He occasionally emphasizes certain harmonic shifts and key moments with a slight push, providing both a sense of forward motion and a subtle invitation for reflection.
+
+---
+
+## Questions-for Guide
+## Guide for further studies
