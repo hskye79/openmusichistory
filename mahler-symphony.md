@@ -3,7 +3,7 @@
 
 ## Table of concents
 
- - [About Gustav Mahler](#gustav-mahler)
+ - [About Gustav Mahler](#about-gustav-mahler)
  - [Timeline](#timeline)
  - [Symphony no.1](#symphony-no1-d-major-titan)
    - [1st mov.](#1st-mov-langsam-schleppend)
@@ -15,7 +15,7 @@
  - [Questions for Review](#questions-for-review)
 
 
-## Gustav Mahler
+## About Gustav Mahler
 
 Gustav Mahler, an Austrian composer and conductor, emerged as a leading figure of the Late Romantic period. Although his family was poor, Mahler showed exceptional musical talent from a young age, and at 13, he began studying piano and composition at the Vienna Conservatory. Before he gained recognition as a composer, Mahler became well-known as an opera conductor, leading several opera houses and gaining fame for his work. However, composing was always his true passion. Even during summer vacations, he would devote himself to completing his symphonies.   
 
@@ -112,3 +112,16 @@ Many people say that Mahler's Symphony No. 1 is the best piece to start with whe
 [Mahler symphony no.1](https://youtu.be/4XbHLFkg_Mw?si=esPJvWvMbcrZ9yum)
 
 ## Questions for Review
+
+### Where does the nickname 'Titan' come from?
+
+Mahler's Symphony No. 1 is known by the nickname 'Titan'. This name actually comes from the fact that Mahler originally intended to release the piece under the title 'Titan.' 'Titan' is derived from a novel by the composer 'Hartmann', which depicts a giant or heroic figure. Although Mahler later chose not to use this title officially, the nickname 'Titan' has remained as a symbolic representation of the symphony."
+
+### What are the main themes of Symphony No. 1?
+
+***The conflict between nature and humanity***: Through Symphony No. 1, Mahler explores the relationship between nature and humanity, and this work lays an important foundation for expressing the struggles and triumphs of human existence, much like his later symphonies.
+
+***Life and death***: The theme of life and death, which runs throughout the symphony, is an important subject that appears in many of Mahler's works.
+
+***Folk elements and Romanticism***: In the second and third movements, Mahler uses folk music elements to emphasize emotional depth, while overall, he masterfully blends Romanticism and modern musical techniques.
+

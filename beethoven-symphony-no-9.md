@@ -40,17 +40,17 @@ In his later years, his health deteriorated along with his hearing, leading to a
 
 ## Timeline of Beethoven
 
-| Year | Event             | Description                                                    | 
-| ---- | ----------------- | -------------------------------------------------------------- |
-| 1770 | Birth             | Born in Bonn, Germany on December 17                           |
-| 1778 | First Concert     | His first concert at the age of seven                          |
-| 1782 | First Composition | Composed piano variation for the first time                    |
-| 1787 | Meet Mozart       | First visit to Vienna, meet Mozart and learn for a short time  |
-| 1792 | Move to Vienna    | Moved to Vienna and learned composition from Haydn and Salieri |
-| 1800 | First Symphony    | Composed ***Symphony no.1***                                   |
-| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                |
-| 1827 | Death             | Died of cirrhosis in Vienna on March 26                        |
-
+| Year | Event             | Description                                                    |     :tv:     |
+| ---- | ----------------- | -------------------------------------------------------------- | ------------ |
+| 1770 | Birth             | Born in Bonn, Germany on December 17                           |              |
+| 1778 | First Concert     | His first concert at the age of seven                          |              |
+| 1782 | First Composition | Composed piano variation for the first time                    |              |
+| 1787 | Meet Mozart       | First visit to Vienna, meet Mozart and learn for a short time  |              |
+| 1792 | Move to Vienna    | Moved to Vienna and learned composition from Haydn and Salieri |              |
+| 1800 | First Symphony    | Composed ***Symphony no.1***                                   | [Symphony no.1](https://youtu.be/A6h4Gi2_LA4?si=kI-5AxOCFMpN-6la) |
+| 1824 | Masterpiece       | Composed and first concertt ***Symphony no.9***                | [Symphony no.9](https://www.youtube.com/watch?v=O3MVY6UiMag) |
+| 1827 | Death             | Died of cirrhosis in Vienna on March 26                        |              |
+  
 ---
 
 # Beethoven Symphony no.9 in D minor, Op. 125
@@ -198,4 +198,19 @@ There are countless videos of performances by numerous conductors and orchestras
 
 
 ## Questions for Review
+
+#### Why is it called the 'Choral Symphony'? 
+
+Symphony No. 9 is characterized by the appearance of a choir and soloists in the final fourth movement. While a typical symphony only uses instruments, the inclusion of a choir performing the famous hymn 'Ode to Joy' adds special significance to this work. This is why it has been given the nickname 'Choral Symphony'.
+
+#### What is 'Ode to Joy'?
+
+'Ode to Joy' is derived from a poem called 'An die Freude' written by the German poet Friedrich Schiller in 1785. Beethoven musically expressed the content of this poem in the final movement of his Symphony No. 9, and the song celebrates human freedom and brotherhood. This part is the most famous and symbolic section of Symphony No. 9.
+
+#### What meaning does Symphony No. 9 hold?
+
+This piece symbolizes hope and freedom for humanity, and it is a work that brings comfort and inspiration to many people. 'Ode to Joy,' in particular, carries a message that evokes a sense of unity and peace among people, and it is often performed at important events around the world.
+
+
+
 
