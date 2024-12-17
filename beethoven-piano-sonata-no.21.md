@@ -217,11 +217,8 @@ These questions will help you engage deeply with the piece, analyzing both its t
 
 6. **Performance and Practice**: Observe live performances, develop your own interpretation, and solidify your understanding through practice and performance.
 
-This guide will help you efficiently study the key elements of the "Waldstein" Sonata, deepening your understanding of the work.
+This guide will help you efficiently study the key elements of the "Waldstein" Sonata, deepening your understanding of the work. 
+[Link](https://youtu.be/jrLIrdCRT4Q?si=LySMDfRmfT7J52-u)
 
----
 
 
-That's cool. 
-
-It's a great textbook.
