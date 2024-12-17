@@ -35,6 +35,8 @@ In stark contrast to the gravity of the first movement, the second movement is l
 Movement III: Marche funèbre: Lento
 The Funeral March is the heart of the sonata and arguably one of Chopin’s most recognizable works. The slow, steady rhythm of the opening evokes the solemnity of a funeral procession, while the poignant melody captures a universal sense of grief. In the middle section, Chopin offers a lyrical contrast—an ethereal and tender passage that recalls memories of gentler times. The march returns, closing the movement with a sense of finality and profound sorrow.
 
+<img src="chopin_sonata.png">
+
 Movement IV: Finale: Presto
 The sonata concludes with a whirlwind of restless energy in the Finale. This brief but intense movement is marked by a lack of a clear melodic theme, instead relying on rapid, stormy passages that seem to swirl into chaos. The haunting, unresolved conclusion leaves listeners with a sense of mystery, as if the music fades into the void, embodying the inevitable silence after life's struggles.
 
@@ -75,4 +77,3 @@ Observe how the movement avoids a clear melodic theme, instead creating a sense 
 <img src="Chopin2.png" width="400" height="400">
 </div>
 
-<img src="chopin_sonata.png">
