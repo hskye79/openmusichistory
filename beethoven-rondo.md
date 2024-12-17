@@ -57,6 +57,8 @@ Expressive Depth: Beyond technical proficiency, performers must capture the ligh
 
 Beethoven's Rondo a Capriccio is a gem that offers a glimpse into the composer's human side and his playful artistry. Performers have the chance to convey Beethoven's humor and vitality, while audiences are invited to enjoy a delightful exploration of his unique musical imagination.
 
+<img src="beethoven-rondo.png">
+
 ## Questions for Review
 
 - When was Beethoven's Rondo a Capriccio composed, and why was it published posthumously?
@@ -71,4 +73,3 @@ Study the rondo form in the works of Mozart and Haydn. How does Beethoven's appr
 Analyze other compositions where Beethoven's humor and wit are evident, such as his Scherzos. What techniques does he use to convey these qualities?
 Read Anton Schindler’s biography of Beethoven to gain insight into the composer’s personality and how Schindler’s interpretations have shaped our understanding of works like this one.
 
-<img src="beethoven-rondo.png">
