@@ -20,7 +20,7 @@
 
 | Year | Event      | Description                                                                | Youtube                                                  |
 | ---- | ---------- | -------------------------------------------------------------------------- | ---------------------------------------------------------|
-| 1988 | Birth      | Born on September 13, 1988 in Busan, Republic of korea                     | [Watch](http://moonheelee.com/) 🌐                       |      
+| 1984 | Birth      | Born on November 08, 1984 in Busan, Republic of korea                     | [Watch](http://moonheelee.com/) 🌐                       |      
 | 2012 | Early Work | Eolssigu Eolssu for percussion and esemble (Clarinet, Piano, Volin, Cello) | [Listen](https://www.youtube.com/watch?v=cSqhM9DPHr4) 📺 |
 | 2024 | This Work  | The Proliferation of Dots for orchestra                                    | Not yet 😢                                               |
 
@@ -33,12 +33,6 @@ Moonhee Lee was born in Busan(South Korea), in 1984 and studied composition with
 His works for orchestra as well as his chamber music pieces received various national and international prizes such as the grand prize at the 39th Korean National Composer Prize, the first prize in international Younghi Pagh-Pann Composition Prize 2019, the second Prize from the Hongkong International Competition for Percussion Composition, Honorary Mention in composition competition ‘Franz Schubert and Modern Music’. Furthermore, he was also chosen for 'Composer of Paan-Tree of Life in 2018'.
 
 Moonhee Lee is currently professor at Hanyang University
-
----
-
-<div align="center">
-<img src="Dots_NewScore.png" width="800px">
-</div>
 
 ---
 
@@ -70,6 +64,12 @@ Moonhee Lee is currently professor at Hanyang University
 * violas
 * violoncellos
 * contrabasses (including 5th string)
+
+---
+
+<div align="center">
+<img src="Dots_NewScore.png" width="800px">
+</div>
 
 ---
 
