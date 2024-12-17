@@ -9,10 +9,6 @@ Mozart opened new paths in various genres, including symphonies, concertos, oper
 - [Timeline](#timeline)
 - [Mozart's Symphony No. 41 in C major, K. 551](#mozart-symphony-no-41-in-c-major-k-551)
 - [*Description of each movement*](#description-of-each-movement)
-- [Movement I: Allegro vivace](#movement-i-allegro-vivace)
-- [Movement II: Andante cantabile](#movement-ii-andante-cantabile)
-- [Movement III: Menuetto: Allegretto](#movement-iii-menuetto-allegretto)
-- [Movement IV: Molto allegro](#movement-iv-molto-allegro)
 - [Form and Style](#form-and-style)
 - [Historical Significance](#historical-significance)
 - [Questions for Review](#questions-for-review)
@@ -57,7 +53,7 @@ Symphony No. 41 exemplifies the Classical symphony through its four-movement str
 ## Historical Significance
 The Jupiter Symphony stands as one of Mozart’s crowning achievements, representing the height of his symphonic output and a culmination of the Classical symphonic tradition. Its balance of formal clarity, thematic development, and polyphonic richness has made it a benchmark for symphonic writing, influencing composers from Beethoven to Brahms. The symphony’s timeless appeal lies in its combination of structural complexity and expressive immediacy, qualities that continue to engage audiences and performers alike.
 
-### Questions for Review
+## Questions for Review
 1. When and where was Mozart's Symphony No. 41 composed? What historical events or personal circumstances influenced Mozart at this time?
 2. Why is Symphony No. 41 nicknamed the "Jupiter Symphony"? Who is believed to have given it this title?
 3. How does this symphony fit into Mozart's overall symphonic output?
@@ -67,12 +63,7 @@ The Jupiter Symphony stands as one of Mozart’s crowning achievements, represen
 7. In what ways does Mozart blend Baroque and Classical elements in this symphony?
 8. How does Mozart use orchestration to create a sense of grandeur and complexity? Which instruments stand out, and why?
    
-### Guides for Further Studies
+## Guides for Further Studies
 Explore the background of Mozart’s final symphonies and their context in his life.
 Resource: [Mozart's Symphonies - Britannica](https://www.britannica.com/art/symphony-music)
 
-wow~ what a nice text.
-
-Comment: I wish Mozart's picture was a little bigger. But the content is good!
-
-***I think the 'a.mozart' on the top line can be removed. The full name written below seems better.***
