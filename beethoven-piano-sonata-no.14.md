@@ -42,7 +42,7 @@ This piece was directly influenced by Beethoven's piano sonatas, especially [Pia
 ---
 ## Piano Sonata No. 14 in C-Sharp minor, Op. 27, No. 2 
 
-<img src="Moonlight_Sonata_I.png" wirth="400" height="150">
+<img src="Moonlight_I.png" wirth="3000" height="800">
 
 This work is *Beethoven's Piano Sonata No. 14 in C♯ minor, Op. 27, No. 2*, commonly known as the **"Moonlight Sonata**."
 
