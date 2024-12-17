@@ -121,21 +121,21 @@ Ligeti’s *Études pour le piano* stand as monumental works in the modern piano
 
 ## Questions for Review
 
-1. Which étude is called *Désordre* and is known for its chaotic rhythms?
-   
-Étude No. 1  
+1. Which étude is called *Désordre* and is known for its chaotic rhythms? 
 
 2. What special technique is used in *Touches bloquées* that blocks some piano keys?
 
-Blocked keys  
-
 3. Which étude is nicknamed *The Devil’s Staircase* because of its endless climbing patterns?
    
-Étude No. 13 (*L’escalier du diable*)  
+
+Answer 
+1. 'Étude No. 1'  
+2. 'Blocked keys'
+3. 'Étude No. 13 (*L’escalier du diable*)'
 
 
 ## Guides for Further Studies
-**Ligeti’s Music**
+<**Ligeti’s Music**>
 
 
 Richard Steinitz’s *György Ligeti: Music of the Imagination* is a comprehensive resource for understanding Ligeti’s life, influences, and creative output.  
