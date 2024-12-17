@@ -113,8 +113,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [*Pierrot lunaire*, Op. 21](schonberg-pierro-lunaire.md) by [RYUSEI-KIM](https://github.com/RYUSEI-KIM)
 
 ### Robert Schumann
-- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
-- [*Fantasie* in C major, Op. 17](schumann_fantasie_op17.md) by [xogus1194](https://github.com/xogus1194)
+- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110) and [xogus1194](https://github.com/xogus1194)
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ---
@@ -149,8 +148,7 @@ As we explore these compositions, we invite readers to experience the varied sou
 - [*Java Suite*](godowsky-java-suite.md) by [piopio1248](https://github.com/piopio1248)
 
 ### Robert Schumann
-- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110)
-- [*Fantasie* in C major, Op. 17](schumann_fantasie_op17.md) by [xogus1194](https://github.com/xogus1194)
+- [*Fantasie* in C major, Op. 17](schumann_fantasie.md) by [leeminji0110](https://github.com/leeminji0110) and [xogus1194](https://github.com/xogus1194)
 - [*Kreisleriana*, Op. 16](schumann-kreisleriana.md) by [ziwonnnn](https://github.com/ziwonnnn)
 
 ### Gustav Mahler

@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="rudolph.png" width="400" height="400">
-  <p><em>Ludvig van Beethoven (left) and Archduke Rudolph (right).</em></p>
+  <p><em>Ludwig van Beethoven (left) and Archduke Rudolph (right).</em></p>
 </div>
 
 

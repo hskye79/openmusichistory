@@ -1,7 +1,7 @@
 # Robert Schuammn (1810–1856)
 
 <div align="center">
-<img src="schumann17.png" width="400" height="400">
+<img src="R.Schumann.png" width="300" height="400">
 </div> 
 
 **Robert Schumann** was a German composer and music critic, renowned as a leading figure of the Romantic era. Initially aspiring to become a pianist, a hand injury redirected his focus to composition. His works, deeply influenced by his love of literature and poetry, are known for their emotional depth and lyrical beauty. Schumann married Clara Wieck, a virtuoso pianist, in 1840, a union that inspired many of his compositions. His music includes groundbreaking piano pieces, lieder cycles like *Dichterliebe*, and orchestral works such as the *Piano Concerto in A minor*. Though he faced mental health struggles, his legacy endures through his innovative and poetic contributions to music.
@@ -16,6 +16,8 @@
     - [Second Movement: Mäßig. Durchaus energisch](#second-movement-mäßig-durchaus-energisch)
     - [Third Movement: Langsam getragen. Durchweg leise zu halten](#third-movement-langsam-getragen-durchweg-leise-zu-halten)
   - [Legacy](#legacy)
+- [Influences](#influences)
+- [Listening Guide](#listening-guide)
 - [Questions for Review](#questions-for-review)
 - [Guides for Further Studies](#guides-for-further-studies)
   
@@ -52,7 +54,22 @@ Schumann’s Fantasy in C Major, Op.17 is one of his most celebrated works for s
 ### Structure and Features
 
 #### First Movement: Durchaus phantastisch und leidenschaftlich vorzutragen
-This expansive and improvisatory movement encapsulates Schumann’s emotional intensity and vivid imagination. It oscillates between moments of fiery passion and tender introspection. The inclusion of a quote from Beethoven’s An die ferne Geliebte reinforces the theme of distant love and longing, further underscoring the work’s deeply personal nature.
+
+The first movement opens with a somber, introspective theme, marked by a deep sense of longing and emotional restraint. Schumann instructs the pianist to play "inflexibly," which indicates a rigid, almost mournful character. The movement features long, lyrical lines and expansive chords that convey a sense of both yearning and reverence.
+
+*This piece is the most passionate movement of the music I have composed. This movement is a song of deep sorrow for you. -R.Schmann* 
+
+The fact that Schumann himself said this highlights that the first movement should be played with great passion. Also instead of removing the movement titles, a poem by Schlegel was included at the beginning.
+
+*Durch alle Töne tönet*
+
+*Im bnnteu Erdentranm*
+
+*Ein leiser Ton gezogeu*
+
+*Für den der heimlieh lansehet*
+
+Additionally, in the coda of this movement, Schumann expresses his reverence for Beethoven by quoting the melody from the final song of Beethoven's An die ferne Geliebte.
 
 #### Second Movement: Mäßig. Durchaus energisch
 A stark contrast to the first, this movement is structured and energetic, with a march-like rhythm and robust character. It exudes determination and strength, showcasing Schumann’s command of intricate textures and rhythmic vitality.
@@ -64,7 +81,27 @@ The final movement serves as a lyrical and contemplative conclusion to the work.
 
 The Fantasy in C Major stands as a testament to Schumann’s genius, capturing the spirit of Romanticism in its unrestrained emotion and inventive form. Its depth and complexity make it a favorite among pianists and listeners alike, offering a window into the heart and mind of one of the 19th century’s most passionate and poetic composers.
 
-<img src="fantasie.png">
+<div align="center">
+<img src="fantasie-score.png">
+</div>
+
+---
+
+## Influences
+### 1. Personal Life and Romanticism
+The Fantasie was composed during a time of great personal turmoil and emotional intensity in Schumann's life. He was deeply in love with Clara Wieck, whom he later married, and their relationship was fraught with obstacles, especially opposition from Clara's father. The emotional depth and passion in the Fantasie reflect this inner turmoil and longing, as well as the broader spirit of Romanticism, which emphasized individual expression, emotion, and the exploration of personal feelings.
+### 2. Beethoven's Influence
+Schumann greatly admired Ludwig van Beethoven, and his influence is evident in the Fantasie. Schumann adopted a similar use of form, particularly in the use of contrasting thematic ideas and development of motives.
+
+---
+
+## Listening Guide
+[Yeol Eum Son](https://www.youtube.com/watch?v=ZRZjHKX-JMA) She is a renowned Korean pianist known for her love of Schumann's works, and she skillfully expresses the contrasting emotions present in Schumann's Fantasie. She has also released many albums featuring Schumann's music, reflecting her deep affection for his compositions.
+
+[Sviatoslav Richter](https://www.youtube.com/watch?v=w7bis1BcxIQ) The Schumann fantasy he played has a sense of speed and is characterized by rapid development without being bored. Even at a high speed, Richter expresses the music that Schumann wanted to express well with his own breath. 
+
+[Yekwon Sunwoo](https://www.youtube.com/watch?v=l_uC48KCFbk) His performance is characterized by an expressive power that seems to come from his deep inner world, creating such an emotionally compelling experience that the audience feels as though they are Clara herself. In particular, the way he expresses the bassline enhances the prominence of this music.## Questions for Review
+
 
 ---
 
