@@ -21,7 +21,6 @@ Also, this sonata was one of my performance pieces. Originally, I didn't particu
  -[II. Scherzo: Allegro marcato](#ii-scherzo-allegro-marcato)
  -[III. Andante](#iii-andante)
  -[IV. Vivace](#iv-vivace)
-- [Musical Significance](#musical-significance)
 - [Conclusion](#conclusion)
 - [Influences](#influences)
 - [Significance](#significance)
