@@ -1,4 +1,4 @@
-# Heinrich Schütz
+# Heinrich Schütz(1585-1672)
 
 <img src="./portrait.png" alt="portrait" style="width:25%;" />
 
