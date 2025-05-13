@@ -4,7 +4,9 @@
 
 Claudio Monteverdi was an Italian composer, string player, and choirmaster. He is considered a crucial transitional figure between the Renaissance and Baroque periods of music history. Monteverdi was one of the first major composers to develop opera as an art form, and he played a significant role in the early Baroque period.
 
-One of his most groundbreaking works is *L'Orfeo* (1607), which is often regarded as the first great opera. His compositions bridged the styles of Renaissance polyphony and Baroque expressiveness, laying the foundation for modern vocal music.
+ One of his most groundbreaking works is *L'incoronazione di Poppea* (1643), one of the earliest operas to be based on historical rather than mythological subjects. It showcases Monteverdi’s mature Baroque style, with expressive vocal lines, dramatic character development, and intricate orchestration. The opera marks a shift toward human emotion and realism in musical storytelling, setting the stage for modern opera.
+
+![Image](https://github.com/user-attachments/assets/d7a45b01-3cc2-4801-8d08-1b17339553ec)
 
 ## List of Important Works
 - L'Orfeo (1607)
