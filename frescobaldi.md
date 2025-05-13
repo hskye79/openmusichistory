@@ -1,5 +1,6 @@
 # Girolamo Frescobaldi (1583–1643)
-
+<img src="frescobaldi.jpg" alt="portrait" style="width:25%;" />
+ 
 Italian composer, 
 I briefly studied Frescobaldi in a first-year university class. He is a lesser-known composer, but when I listened to his music, I found it incredibly captivating. What I found even more intriguing was the fact that the great composer Bach also studied and transcribed Frescobaldi's music. Since Frescobaldi contributed greatly to the development of keyboard music, I am eager to explore his life and works in more detail.
 ## List of Important Works
@@ -12,9 +13,6 @@ I briefly studied Frescobaldi in a first-year university class. He is a lesser-k
 | 1630 | Arie Musical | [listen](https://youtu.be/Dn5l7ljj8N4?si=ivOeW8If4QkaWZIf) |
 | unknown | Gagliarda in G Major | [listen](https://youtu.be/06hfLezeP1E?feature=shared) |
 
-## Portrait of Composer
-<img src="frescobaldi.jpg" alt="portrait" style="width:25%;" />
- 
 ## Frescobaldi's Music Sheet
 <img src="Gagliarda in G minor.png">
 
