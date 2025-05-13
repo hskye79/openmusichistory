@@ -1,5 +1,7 @@
 # Claudio Monteverdi (1567–1643)
 
+![Image](https://github.com/user-attachments/assets/79a95838-9e7e-4822-9bb6-3ba4ceb378ed)
+
 Claudio Monteverdi was an Italian composer, string player, and choirmaster. He is considered a crucial transitional figure between the Renaissance and Baroque periods of music history. Monteverdi was one of the first major composers to develop opera as an art form, and he played a significant role in the early Baroque period.
 
 One of his most groundbreaking works is *L'Orfeo* (1607), which is often regarded as the first great opera. His compositions bridged the styles of Renaissance polyphony and Baroque expressiveness, laying the foundation for modern vocal music.
