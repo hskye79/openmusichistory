@@ -2,7 +2,7 @@
 
 <img src="./couperin_louis_portrait.png" alt="portrait" style="width:25%;" />
 
-Louis Couperin was a significant French Baroque composer, harpsichordist, and organist. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five.
+Louis Couperin was a significant French Baroque composer, harpsichordist, and organist. He quickly became one of the most prominent Parisian musicians, establishing himself as a harpsichordist, organist, and violist, but his career was cut short by his early death at the age of thirty-five. In France, as in [Frescobaldi](frescobaldi_gagliarda.md) in Italy, Louis Couperin contributed greatly to keyboard music.
 
 Born in Chaumes-en-Brie, he moved to Paris around 1650-1651 with the help of Jacques Champion de Chambonnières, a renowned harpsichordist. Couperin quickly established himself as a leading musician in Paris, serving as the organist of the Church of St. Gervais and as a musician at court.   
 
