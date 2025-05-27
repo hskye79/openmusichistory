@@ -13,7 +13,7 @@ He absorbed both styles between Italy and France, and combined them with German 
 <img src="./froberger_lamento_ferdinanto_iv.png"
 alt="portrait" style="width:80%;" />
 
-Background of the Work
+**Background of the Work**
 
 Lamento sopra la dolorosa perdita della Real Maestà di Ferdinando IV, FBWV 612, is one of Johann Jakob Froberger’s most expressive and intimate keyboard works.
 It was composed around 1657 to mourn the untimely death of Ferdinand IV, King of the Romans and heir to the Holy Roman Empire, who died unexpectedly that same year.
@@ -37,6 +37,10 @@ Froberger, who was closely associated with European courts and nobility, compose
 | XXXX | Ricercar in d minor, FbWV 407                                        | [Listen](https://www.youtube.com/watch?v=urRrLrCy-EA)   |  
 | XXXX | Capriccio in G Major, FbWV 507                                       | [Listen](https://www.youtube.com/watch?v=X4ul8Yy-DiY)   |  
 | XXXX | Partita No.7 in e minor, FbWV 607                                    | [Listen](https://www.youtube.com/watch?v=IPylijBoipU)   |  
+
+
+
+## Froberger's Pioneering Role in Baroque Keyboard Development
 
 Froberger was one of the earliest international composers who fused German, Italian, and French styles, laying the foundation for the keyboard music form of the Baroque era.
 In particular, he is known as a pioneer who formalized the order of AleMande, Courante, Sarabande, and Gigue in keyboard collections. He does not just show techniques,
