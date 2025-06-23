@@ -1,11 +1,11 @@
 ---
 Composer: Carlo Gesualdo
-Nationality: 
+Nationality: Italy
 Born: 1566
 DIed: 1613
-Period: 
-Composition:
-Instrument:
+Period: Late Renaissance
+Composition: Tenebrae Responsoria
+Instrument: Voice
 ---
 
 # Carlo Gesualdo (1566~1613)
