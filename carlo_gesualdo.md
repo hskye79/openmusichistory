@@ -14,6 +14,10 @@ Instrument: Voice
 
 Carlo Gesualdo (Italian: Carlo Gesualdo (1566? - September 8, 1613) was an Italian composer. He is known for writing chromatic harmonies in madrigals, which were not rewritten until the 19th century. Gesualdo is known for his rare murders in music history.
 
+## Timeline
+ - [Tenebrae Responsoria](#Tenebrae-Responsoria)
+ - [List of important works](#List-of-important-works)
+
 ## Tenebrae Responsoria (1611)
 ![Image](https://github.com/user-attachments/assets/e07e7b35-6e44-4981-97f3-251394275ab5)
 
